@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: searcherservice
+  cloud:
+    config:
+      uri: http://localhost:8888
+brokerid: 172.23.239.165:9092 

@@ -1,0 +1,101 @@
+[
+
+  {
+    "title": "head",
+    "intensity": "20"
+  },
+  {
+    "title": "title",
+    "intensity": "22"
+  },
+  {
+    "title": "meta",
+    "intensity": "25"
+  },
+  {
+    "title": "body",
+    "intensity": "5"
+  },
+  {
+    "title": "h1",
+    "intensity":"15"
+  },
+  {
+    "title": "h2",
+    "intensity": "14"
+  },
+  {
+    "title": "h3",
+    "intensity": "13"
+  },
+  {
+    "title": "h4",
+    "intensity": "12"
+  },
+  {
+    "title": "h5",
+    "intensity": "11"
+  },
+  {
+    "title": "h6",
+    "intensity": "10"
+  },
+  {
+    "title": "code",
+    "intensity": "3"
+  },
+  {
+    "title": "address",
+    "intensity": "3"
+  },
+  {
+    "title": "summary",
+    "intensity": "8"
+  },
+  {
+    "title": "blockquote",
+    "intensity": "6"
+  },
+  {
+    "title": "mark",
+    "intensity": "5"
+  },
+  {
+    "title": "p",
+    "intensity": "2"
+  },
+  {
+    "title": "ins",
+    "intensity": "4"
+  },
+  {
+    "title": "span",
+    "intensity": "2"
+  },
+  {
+    "title": "div",
+    "intensity": "2"
+  },
+  {
+    "title": "ul",
+    "intensity": "7"
+  },
+  {
+    "title": "ol",
+    "intensity": "7"
+  },
+  {
+    "title": "li",
+    "intensity": "7"
+  },
+  {
+    "title": "article",
+    "intensity": "9"
+
+  },
+  {
+    "title": "nav",
+    "intensity": "7"
+  }
+]
+

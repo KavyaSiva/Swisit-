@@ -1,0 +1,17 @@
+INDEX VERSION 1.130+/media/user/50F45F29F45F1118/git new/.metadata/.plugins/org.eclipse.jdt.core
+2233963263.index
+3885805113.index
+1913109094.index
+3106651686.index
+2630498905.index
+3214207201.index
+3721837726.index
+46282419.index
+120211678.index
+527624335.index
+742522455.index
+2066489604.index
+3888198363.index
+2982035129.index
+2771403403.index
+2841451250.index

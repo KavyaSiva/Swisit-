@@ -1,0 +1,19 @@
+topic-toproducer: tointent
+broker-id: 172.23.239.165:9092
+#topic-toproducer: tointent
+topic-fromconsumer: testcontrol
+spring:
+# application:
+#   name: crawlerservice
+# cloud:
+#    config:
+#      uri: http://localhost:8888
+  data:
+   neo4j:
+    uri: http://172.23.239.174:7474
+    username: neo4j
+    password: root123
+server:
+  port: 8087
+
+ 
